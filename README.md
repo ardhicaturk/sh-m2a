@@ -27,3 +27,6 @@ brew install rename
 1. Give execute permission `chmod +x covert.sh`
 2. Run `./convert.sh`
 3. Insert markdown directory and press `Enter`
+
+### Noted
+The image entered at markdown must be in the `$dir/assets` folder. `$dir` is a string entered at the prompt.
