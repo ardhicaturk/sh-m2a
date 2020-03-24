@@ -30,3 +30,11 @@ brew install rename
 
 ### Noted
 The image entered at markdown must be in the `$dir/assets` folder. `$dir` is a string entered at the prompt.
+
+
+# Example
+
+1. Install all package,
+2. Run `chmod +x convert.sh`,
+3. Run `./convert.sh`,
+4. Insert `./md` in interactive prompt
