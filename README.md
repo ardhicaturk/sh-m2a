@@ -6,21 +6,21 @@ for Mac
 ```
 brew install ruby
 ```
-1. Install `kramdown`
+2. Install `kramdown`
 
 for Mac
 ```
 sudo gem install kramdown
 ```
 
-2. Install `asciidoctor` & `asciidotor-pdf`
+3. Install `asciidoctor` & `asciidotor-pdf`
 
 for Mac
 ```
 sudo gem install asciidoctor asciidoctor-pdf
 ```
 
-3. Install `rename`
+4. Install `rename`
 
 for Mac
 ```
