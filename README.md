@@ -1,18 +1,23 @@
 # How to use
 
 ### Requirement
+1. Update `Ruby`
+for Mac
+```
+brew install ruby
+```
 1. Install `kramdown`
 
 for Mac
 ```
-brew install kramdown
+sudo gem install kramdown
 ```
 
 2. Install `asciidoctor` & `asciidotor-pdf`
 
 for Mac
 ```
-brew install asciidoctor asciidoctor-pdf
+sudo gem install asciidoctor asciidoctor-pdf
 ```
 
 3. Install `rename`
